@@ -81,15 +81,15 @@ http://localhost:8080/enrollees/1/dependents
 CREATE Dependents:
 http://localhost:8080/enrollees/2/dependents
 {
-    "dependentName": "Ada Child Jr",
-    "birthDate": "1989-05-05"
+    "dependentName": "Ada",
+    "birthDate": "2019-05-05"
 }
 
 PUT Dependents:
 http://localhost:8080/enrollees/2/dependents/3
 {
-    "dependentName": "Ada Child Jr",
-    "birthDate": "2001-05-05"
+    "dependentName": "Ada",
+    "birthDate": "2001-06-05"
 }
 
 DELETE All Dependents:
