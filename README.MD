@@ -86,7 +86,7 @@ http://localhost:8080/enrollees/2/dependents
 }
 
 PUT Dependents:
-http://localhost:8080/enrollees/2/dependents/3
+http://localhost:8080/enrollees/2/dependents/1
 {
     "dependentName": "Ada",
     "birthDate": "2001-06-05"
